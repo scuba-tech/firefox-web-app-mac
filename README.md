@@ -2,7 +2,7 @@
 
 *Treat any web page as a desktop app; with Firefox SSB on macOS!*
 
-Author: Diver-Down (C.D.) @ https://github.com/diver-down/
+Author: C.D. @ https://github.com/scuba-tech/checksum-tracker
 
 ---
 
